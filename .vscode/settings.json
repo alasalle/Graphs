@@ -12,5 +12,6 @@
     "statusBar.background": "#289333",
     "statusBarItem.hoverBackground": "#33bb41",
     "statusBar.foreground": "#e7e7e7"
-  }
+  },
+  "python.pythonPath": "/home/angelon/.local/share/virtualenvs/Graphs-BgNVFsbj/bin/python"
 }
